@@ -1,1 +1,3 @@
 # fuji template
+
+- [ ] Some content
